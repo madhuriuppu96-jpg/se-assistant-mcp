@@ -2,7 +2,7 @@
 
 A Model Context Protocol (MCP) server that exposes GitHub tools to Claude via the SE Assistant backend.
 
-**Full project architecture:** [SE Assistant — Project Architecture](https://docs.google.com/document/d/1fcqk6WvhjLk0u9hyQHfpvNVkdXVteuUqee2UrpoVUfg/edit)
+**Full project architecture:** [SE Assistant — Project Architecture](https://docs.google.com/document/d/10_uX209MxOdS-cHkVwnTrvAS3yJ-Y6NLumXs-Hmb8Z8/edit?tab=t.0)
 
 ## What is MCP?
 
