@@ -2,6 +2,8 @@
 
 A Model Context Protocol (MCP) server that exposes GitHub tools to Claude via the SE Assistant backend.
 
+**Full project architecture:** [SE Assistant — Project Architecture](https://docs.google.com/document/d/1fcqk6WvhjLk0u9hyQHfpvNVkdXVteuUqee2UrpoVUfg/edit)
+
 ## What is MCP?
 
 MCP (Model Context Protocol) is a standardized way to give LLMs access to external tools. Instead of embedding tool logic inside the LLM orchestrator, tools are served as independent HTTP servers that expose:
